@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    font-family: Helvetica;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 750px;
+    }
+
+.post {
+    width: 400px;
+    background-color: white;
+    
+}
+
+.header {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.left-side {
+    font-size: 13px;
+    display: flex;
+}
+
+.ptags {
+    padding-left: 10px;
+}
+
+p {
+    margin: 0;
+}
+
+.fa-brands.fa-html5 {
+    font-size: 28px;
+}
+
+
+.fa-solid.fa-ellipsis-vertical {
+    font-size: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+.icons-container {
+    font-size: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.post-caption {
+    font-size: 13px;
+    padding: 15px;
+    padding-bottom: 30px;
+}
